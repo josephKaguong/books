@@ -1,14 +1,13 @@
-import useFetch from "../usefetch"
+
 import { Truncate } from "./truncate";
 import { useSelector,useDispatch } from "react-redux";
 import { RootState,AppDispatch } from "../store/store"; 
 import { removeBook } from "../store/library";
 import Header from "./header";
-import { useState } from "react";
 import { Link } from "react-router-dom";
 
 const Library = () => {
-    const [contains,setContains]=useState<boolean>(false)
+    
     const library=useSelector((state:RootState)=>state.library.books)
     
     const dispatch:AppDispatch=useDispatch()
