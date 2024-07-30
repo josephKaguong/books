@@ -1,0 +1,279 @@
+{
+    "books":[
+        {
+            "id":1,
+            "title":"Quantum Rift",
+            "author":"Dune",
+            "pulished":1995,
+            "category":"Scifi",
+            "details":"In a distant future, the desert planet Arrakis is the sole source of the galaxy's most valuable substance: the spice melange. Young Paul Atreides becomes embroiled in a complex struggle for control of Arrakis, facing political intrigue, rebellion, and prophetic visions that could alter the fate of the universe.",        
+            "cover":"https://cdn.pixabay.com/photo/2018/12/09/09/28/physics-3864564_640.jpg"
+            
+        },
+        {
+            "id":2,
+            "title":"Neuromancer",
+            "author":"William Gibson",
+            "pulished":2000,
+            "category":"Scifi",
+            "details":"Case, a washed-up computer hacker, is hired for one last job: to pull off the ultimate hack. In a cyberpunk future, he navigates a high-tech, dystopian world of artificial intelligence and corporate espionage, where he confronts powerful entities and uncovers a plot that could change humanity's future.",
+            "cover":"https://media.istockphoto.com/id/1199148728/photo/witch-raise-hand-control-ball-glass-to-cast-a-black-magic-spell-to-background-smoke-and.jpg?s=612x612&w=0&k=20&c=Sk7qcHUEZ9tcfMAmG3mEX3k3SdPsVNXTzpbe8N7cW7E="
+            
+        },
+        {
+            "id":3,
+            "title":"Foundation",
+            "author":"Issack Isimov",
+            "pulished":1845,
+            "category":"Scifi",
+            "details":"The story follows Hari Seldon, a mathematician who predicts the collapse of the Galactic Empire. To preserve knowledge and civilization, he establishes the Foundation, a group dedicated to compiling a vast Encyclopedia. As the empire crumbles, the Foundation's role becomes crucial in guiding the future of the galaxy.",
+            "cover":"https://cdn.pixabay.com/photo/2020/03/23/11/07/portal-4960440_640.jpg"
+        },
+        {
+            "id":4,
+            "title":"Snow Crash",
+            "author":"Neal Stephenson",
+            "pulished":2005,
+            "category":"Scifi",
+            "details":"In a dystopian future America, Hiro Protagonist is a hacker and pizza delivery driver who stumbles upon a virtual drug called Snow Crash that threatens both the digital and real worlds. As he investigates, he uncovers a conspiracy that connects ancient Sumerian culture to modern virtual reality and corporate control.",
+            "cover":"https://cdn.pixabay.com/photo/2022/01/13/16/37/trees-6935614_640.jpg"
+        },
+        {
+            "id":5,
+            "title":"The Left Hand of darkness",
+            "author":"Ursula K.leGuin",
+            "pulished":1990,
+            "category":"Scifi",
+            "details":"On the planet Gethen, where inhabitants can change gender, envoy Genly Ai from Earth faces political intrigue and isolation. Tasked with persuading the planet to join an interstellar alliance, Ai navigates complex social structures and develops a deep understanding of Gethenian culture, challenging his own perceptions of gender and humanity.",
+            "cover":"https://cdn.pixabay.com/photo/2019/08/27/03/17/bird-skull-4433244_640.jpg"
+        },
+        {
+            "id":6,
+            "title":"The Hobbit",
+            "author":"J.R.R.Tolkein",
+            "pulished":2022,
+            "category":"Adventure",
+            "details":"Bilbo Baggins, a hobbit, is swept into an epic quest by the wizard Gandalf and a group of dwarves to reclaim their homeland from the dragon Smaug. Along the journey, Bilbo encounters trolls, elves, giant spiders, and finds a powerful ring that will have far-reaching consequences.",
+            "cover":"https://cdn.pixabay.com/photo/2019/11/08/20/54/ring-4612457_640.jpg"
+        },
+        {
+            "id":7,
+            "title":"Treasure Island",
+            "author":"Robert Luis",
+            "pulished":1876,
+            "category":"Adventure",
+            "details":"Young Jim Hawkins discovers a treasure map in a chest belonging to a deceased pirate. He sets sail with a crew to find the buried treasure, facing mutiny, deceit, and the cunning Long John Silver. This classic tale of piracy and adventure explores themes of courage and greed.",
+            "cover":"https://cdn.pixabay.com/photo/2019/03/16/07/55/pirates-of-the-4058616_640.jpg"
+        },
+        {
+            "id":8,
+            "title":"King Solomon Mines",
+            "author":"H.Rider Hagard",
+            "pulished":2004,
+            "category":"Adventure",
+            "details":"Explorer Allan Quatermain leads an expedition into the uncharted African interior in search of King Solomon's legendary mines. Facing hostile tribes, treacherous terrain, and hidden dangers, Quatermain and his companions embark on a perilous journey to uncover the lost treasures and ancient secrets of the mines.",
+            "cover":"https://cdn.pixabay.com/photo/2016/08/28/16/50/coal-1626368_640.jpg"
+        },
+        {
+            "id":9,
+            "title":"The count of monte Cristo",
+            "author":"Alexander Dumas",
+            "pulished":1999,
+            "category":"Adventure",
+            "details":"Edmond Dantès, falsely imprisoned for a crime he didn’t commit, escapes from a fortress prison and discovers a hidden treasure on the Isle of Monte Cristo. Using his newfound wealth, he embarks on a mission of revenge against those who betrayed him and seeks justice and redemption.",
+            "cover":"https://cdn.pixabay.com/photo/2017/06/19/06/56/arrow-2418321_640.jpg"
+        },
+        {
+            "id":10,
+            "title":"The three Musketeers",
+            "author":"Alexander Dumas",
+            "pulished":1600,
+            "category":"Adventure",
+            "details":"Young d'Artagnan travels to Paris to join the King's Musketeers and quickly befriends three elite soldiers: Athos, Porthos, and Aramis. Together, they embark on thrilling adventures filled with duels, political intrigue, and romance, fighting for honor and justice in 17th-century France.",
+            "cover":"https://media.istockphoto.com/id/1328822755/vector/17th-century-french-costumes-nobles-hand-colored-wood-engraving-published-c-1880.jpg?s=612x612&w=0&k=20&c=fNH2J7FGHhn-W9d6Z0cXt-NC8DwZg7FzOg5uf7vJkaE="
+        },
+        {
+            "id":11,
+            "title":"Charlottes Web",
+            "author":"E.B white",
+            "pulished":1876,
+            "category":"Children",
+            "details":"Wilbur, a runt pig, faces the prospect of being slaughtered until Charlotte, a wise and gentle spider, weaves words of praise into her web to save him. Their friendship flourishes as they work together to ensure Wilbur's survival, highlighting themes of loyalty, friendship, and the cycle of life.",
+            "cover":"https://cdn.pixabay.com/photo/2015/01/01/21/56/web-586177_640.jpg"
+        },
+        {
+            "id":12,
+            "title":"Hungry Catterpillar",
+            "author":"Eric Carl",
+            "pulished":2006,
+            "category":"Children",
+            "details":"A tiny caterpillar hatches from an egg and begins eating a variety of foods over the course of several days. As he munches his way through fruit, cake, and other treats, he grows and eventually transforms into a beautiful butterfly, teaching children about growth and the life cycle.",
+            "cover":"https://media.istockphoto.com/id/177785671/photo/%D1%81artoony-goggle-eyed-caterpillar-looking-at-a-butterfly.jpg?s=1024x1024&w=is&k=20&c=zsuNSa9lq_AHrxhZsdKAsnrE_albIm3YM71Qys7sh4s="
+        },
+        {
+            "id":13,
+            "title":"Winnie the Pooh",
+            "author":"A.A Milne",
+            "pulished":2018,
+            "category":"Children",
+            "details":"Winnie-the-Pooh, a lovable bear, and his friends—Piglet, Tigger, Eeyore, and others—embark on simple yet delightful adventures in the Hundred Acre Wood. Through their whimsical escapades, they explore themes of friendship, kindness, and imagination, capturing the joy and innocence of childhood.",
+            "cover":"https://cdn.pixabay.com/photo/2014/09/07/16/06/winnie-the-pooh-437940_640.jpg"
+        },
+        {
+            "id":14,
+            "title":"The tale of peter Rabbit",
+            "author":"Beatrix Potter",
+            "pulished":2019,
+            "category":"Children",
+            "details":"Peter Rabbit, a mischievous young bunny, sneaks into Mr. McGregor’s garden to steal vegetables. Despite his mother's warnings, Peter's curiosity and recklessness lead to a series of humorous and harrowing events. His adventures underscore the importance of listening to advice and the consequences of disobedience.",
+            "cover":"https://cdn.pixabay.com/photo/2024/02/15/09/01/rabbit-8574984_640.jpg"
+        },
+        {
+            "id":15,
+            "title":"Matilda",
+            "author":"Roald Dahl",
+            "pulished":1973,
+            "category":"Children",
+            "details":"Matilda, a highly intelligent girl with neglectful parents, discovers she has telekinetic powers. She uses her abilities to outwit her cruel headmistress, Miss Trunchbull, and help her beloved teacher, Miss Honey. The story celebrates Matilda’s courage and cleverness, and her triumph over adversity and injustice.",
+            "cover":"https://cdn.pixabay.com/photo/2016/04/27/20/15/vintage-1357424_640.jpg"
+        },
+        {
+            "id":16,
+            "title":"Pride and prejudice",
+            "author":"Jane Austen",
+            "pulished":2003,
+            "category":"Romance",
+            "details":"Elizabeth Bennet, a sharp-witted young woman, navigates societal expectations and personal prejudices as she encounters the wealthy and aloof Mr. Darcy. Their initial misunderstandings and conflicts give way to mutual respect and love. Austen's classic novel explores themes of social class, marriage, and the transformative power of true affection.",
+            "cover":"https://cdn.pixabay.com/photo/2019/10/29/04/18/book-cover-4586115_640.jpg"
+        },
+        {
+            "id":17,
+            "title":"Outlander",
+            "author":"Diana Gabaldon",
+            "pulished":1963,
+            "category":"Romance",
+            "details":"Claire Randall, a former World War II combat nurse, is mysteriously transported back to 18th-century Scotland. There, she falls in love with Highland warrior Jamie Fraser, complicating her return to her own time. The novel blends historical drama with romance, exploring loyalty, passion, and the challenges of time travel.",
+            "cover":"https://cdn.pixabay.com/photo/2017/10/31/02/35/fantasy-2904098_640.jpg"
+        },
+        {
+            "id":18,
+            "title":"The note Book",
+            "author":"Nicholas Sparks",
+            "pulished":1876,
+            "category":"Romance",
+            "details":"Noah Calhoun and Allie Nelson, whose summer romance is interrupted by class differences and World War II, find their love tested by life's challenges. In their old age, Noah reads their story from a notebook to Allie, who is suffering from Alzheimer's, reigniting their deep, enduring love.",
+            "cover":"https://cdn.pixabay.com/photo/2016/09/30/22/33/couple-1706572_640.jpg"
+        },
+        {
+            "id":19,
+            "title":"Me Before You",
+            "author":"Jojo Moyes",
+            "pulished":11754,
+            "category":"Romance",
+            "details":"Louisa Clark, a quirky and optimistic woman, becomes the caregiver for Will Traynor, a wealthy and cynical man left paralyzed from an accident. As she helps him find joy in life, their bond deepens into a profound and transformative love. The novel explores themes of choice, personal growth, and heartache.",
+            "cover":"https://cdn.pixabay.com/photo/2014/12/08/14/23/pocket-watch-560937_640.jpg"
+        },
+        {
+            "id":20,
+            "title":"Jane Eyre",
+            "author":"Charlotee Bronte",
+            "pulished":1920,
+            "category":"Romance",
+            "details":"Orphaned and mistreated, Jane Eyre becomes a governess at Thornfield Hall, where she falls in love with her enigmatic employer, Mr. Rochester. Their relationship faces numerous obstacles, including dark secrets and societal norms. Brontë's novel combines romance with gothic elements, highlighting themes of integrity, resilience, and equality.",
+            "cover":"https://cdn.pixabay.com/photo/2016/07/12/20/52/old-photography-1513018_640.jpg"
+        },
+        {
+            "id":21,
+            "title":"Dracula",
+            "author":"Bram Stoker",
+            "pulished":2003,
+            "category":"Horror",
+            "details":"Count Dracula, a vampire from Transylvania, seeks to move to England to spread his undead influence. As he preys on Lucy Westenra and attempts to seduce Mina Murray, a group of people led by Professor Abraham Van Helsing unite to thwart his malevolent plans and protect the living from eternal darkness.",
+            "cover":"https://cdn.pixabay.com/photo/2023/03/01/17/28/ai-generated-7823616_640.jpg"
+        },
+        {
+            "id":22,
+            "title":"The shining",
+            "author":"Stephen King",
+            "pulished":1789,
+            "category":"Horror",
+            "details":"Jack Torrance, an aspiring writer, takes a job as the winter caretaker of the isolated Overlook Hotel, bringing his family with him. As the hotel’s supernatural forces begin to influence Jack, it endangers his wife Wendy and son Danny, who has psychic abilities. The novel explores madness, isolation, and terror.",
+            "cover":"https://cdn.pixabay.com/photo/2022/10/09/02/16/haunted-house-7508035_640.jpg"
+        },
+        {
+            "id":23,
+            "title":"The Exorcist",
+            "author":"William Bratty",
+            "pulished":1777,
+            "category":"Horror",
+            "details":"When 12-year-old Regan MacNeil begins exhibiting disturbing and violent behavior, her mother seeks help from the church. Two priests are called in to perform an exorcism, facing intense supernatural forces and psychological horror. The novel explores themes of faith, the battle between good and evil, and the nature of possession.",
+            "cover":"https://cdn.pixabay.com/photo/2022/04/11/17/36/church-7126283_640.jpg"
+        },
+        {
+            "id":24,
+            "title":"The Hunted hill House",
+            "author":"Shirley Jackson",
+            "pulished":2019,
+            "category":"Horror",
+            "details":"Four individuals stay in the eerie Hill House, known for its dark and unsettling history. As supernatural events and psychological disturbances escalate, the house's malevolent presence affects the characters, particularly Eleanor Vance. Jackson’s novel delves into the effects of fear and isolation, blending psychological and supernatural horror.",
+            "cover":"https://cdn.pixabay.com/photo/2016/09/13/07/35/walking-dead-1666584_640.jpg"
+        },
+        {
+            "id":25,
+            "title":"American Psycho",
+            "author":"Blit Iston",
+            "pulished":1789,
+            "category":"Horror",
+            "details":"Patrick Bateman, a wealthy and successful investment banker in 1980s Manhattan, leads a double life as a brutal serial killer. The novel exposes the dark side of materialism and excess through Bateman’s chilling acts of violence and his disturbing detachment from reality, offering a critique of consumer culture.",
+            "cover":"https://cdn.pixabay.com/photo/2019/08/27/03/17/bird-skull-4433244_640.jpg"
+        },
+        {
+            "id":26,
+            "title":"Alice in wonderland",
+            "author":"Lewis Carol",
+            "pulished":1962,
+            "category":"Children",
+            "details":"Alice, a curious young girl, falls down a rabbit hole into a whimsical and nonsensical world. There, she encounters peculiar characters like the Cheshire Cat, the Mad Hatter, and the Queen of Hearts. The novel explores imagination, logic, and the surreal, capturing the wonders of a fantastical adventure.",
+            "cover":"https://cdn.pixabay.com/photo/2018/05/09/13/20/fantasy-3385274_640.jpg"
+        },
+        {
+            "id":27,
+            "title":"Persuasion",
+            "author":"Jane Austen",
+            "pulished":2024,
+            "category":"Romance",
+            "details":"Anne Elliot, now 27 and still single, is given a second chance at love with Captain Frederick Wentworth, whom she was persuaded to reject years earlier. As they navigate misunderstandings and social expectations, Anne and Frederick's renewed relationship highlights themes of regret, resilience, and enduring love.",
+            "cover":"https://cdn.pixabay.com/photo/2013/06/07/11/22/portrait-119851_640.jpg"
+        },
+        {
+            "id":28,
+            "title":"House of leaves",
+            "author":"Mark Z Danielewis",
+            "pulished":1948,
+            "category":"Horror",
+            "details":"The novel presents a complex narrative involving a family that discovers their house is larger on the inside than it is on the outside. As they explore the expanding labyrinth within, the story is intertwined with the accounts of a filmmaker who vanished under mysterious circumstances. The book is a multilayered exploration of fear and reality",
+            "cover":"https://cdn.pixabay.com/photo/2018/10/27/20/18/silhouette-3777403_640.jpg"
+        },
+        {
+            "id": 29,
+            "title":"The lost City of Z",
+            "author":"David Gran",
+            "pulished":1800,
+            "category":"Adventure",
+            "details":"This non-fiction adventure recounts the true story of British explorer Percy Fawcett’s quest to find a fabled ancient city in the Amazon jungle. Despite numerous expeditions and growing skepticism, Fawcett's disappearance in 1925 sparks an enduring mystery about the elusive city of Z and his fate.",
+            "cover":"https://cdn.pixabay.com/photo/2013/03/02/02/41/alley-89197_640.jpg"
+        },
+        {
+            "id":30 ,
+            "title":"Hyperion",
+            "author":"Dan Simmons",
+            "pulished":1971,
+            "category":"Scifi",
+            "details":"In a distant future, seven pilgrims embark on a journey to the distant world of Hyperion, each sharing their own story of mystery, love, and loss. The novel unfolds in a series of interconnected narratives, exploring deep themes through rich characters and a complex, sprawling universe.",
+            "cover":"https://cdn.pixabay.com/photo/2017/06/09/16/57/fractal-2387459_640.jpg"
+        }
+
+        
+        
+    ]
+}
