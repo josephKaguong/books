@@ -10,15 +10,19 @@ import Result from "./components/searchresult"
 import Generator from "./components/bookgenarator"
 
 
+
 function App() {
   
 
   return (
     <>
+    
     <Switch>
+      
+      
       <Route exact path="/"><Home/></Route>
       <Route path="/category"><Full/></Route>
-      {/*<Route path="/details/:id"><Details/></Route>*/}
+    
       <Route path="/detail/:id"><Detail/></Route> 
       <Route path="/library"><Library/></Route>
       <Route path="/search"><Result/></Route>
